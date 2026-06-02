@@ -3,7 +3,8 @@
 ## 1. Thông tin sinh viên
 
 * Họ và tên: Hà Tiến Quang
-* Môn học: Kiểm thử phần mềm
+* MSV: 22010136
+* Môn học: Đánh giá và kiểm thử chất lượng phần mềm
 
 ## 2. Mục tiêu
 
